@@ -11,7 +11,7 @@
 
 ## 🚀 Professional Executive Summary
 
-I operate at the intersection of **Data Science, Generative AI, Backend Engineering, and Business Automation**. I have a proven track record of architecting end-to-end data systems—spanning multi-source ETL pipelines, advanced hybrid retrieval frameworks (RAG), stateful multi-agent systems, and production-grade APIs. My core focus is translating deep technical structures into highly scalable, bottom-line business outcomes.
+I operate at the intersection of **Data Science, Generative AI, Backend Engineering, and Business Automation**. I have a proven track record of architecting end-to-end data systems—spanning multi-source ETL pipelines, advanced hybrid retrieval frameworks (RAG)[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://omniparse-rag.streamlit.app/), stateful multi-agent systems, and production-grade APIs. My core focus is translating deep technical structures into highly scalable, bottom-line business outcomes.
 
 ### 📈 Measurable System Impact
 ```text
