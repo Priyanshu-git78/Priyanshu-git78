@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanshu Harsana  
-### **AI-Driven Data Scientist & Solutions Architect**  
-*Building intelligent automation systems that turn raw data into high-impact operational decisions.*
+### **AI and ML Engineer**  
+*Building intelligent AI systems — turning complex problems into easy-to-deploy, production-grade solutions.*
 
 <p align="left">
   <a href="mailto:pranshuharsana@gmail.com"><img src="https://img.shields.io/badge/Email-pranshuharsana%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&color=007ACC" alt="Email"></a>
