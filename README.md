@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="mailto:pranshuharsana@gmail.com"><img src="https://img.shields.io/badge/Email-pranshuharsana%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&color=007ACC" alt="Email"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Harsana-blue?style=flat-square&logo=linkedin&logoColor=white&color=007ACC" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/priyanshu-harsana-946420311"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Harsana-blue?style=flat-square&logo=linkedin&logoColor=white&color=007ACC" alt="LinkedIn"></a>
 
 
 ---
