@@ -12,7 +12,7 @@
  
 ## 🚀 About Me
  
-I work at the intersection of **Machine Learning, Generative AI, Computer Vision, and Backend Engineering** — architecting end-to-end systems that go from a notebook to a deployed, monitored production service. Over the past 2+ years I've shipped multimodal RAG pipelines, real-time video analytics for security and retail, and forecasting systems that moved real business numbers, while building the MLOps around them: CI/CD, experiment tracking, and containerized, API-served deployment.
+I work at the intersection of **Machine Learning, Generative AI, Computer Vision, and Backend Engineering** — architecting end-to-end systems that go from a notebook to a deployed, monitored production service. Over the past 3+ years I've shipped multimodal RAG pipelines, real-time video analytics for security and retail, and forecasting systems that moved real business numbers, while building the MLOps around them: CI/CD, experiment tracking, and containerized, API-served deployment.
  
 I'm completing an **MBA in AI & Machine Learning** (DPU, Pune), pairing the engineering with business strategy — so what I build is technically sound *and* has a clear ROI case.
  
