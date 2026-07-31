@@ -115,11 +115,4 @@ Built RESTful APIs and Power BI dashboards; cleaned and analyzed millions of rec
  
 ---
  
-## 📊 GitHub Stats
- 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-git78&show_icons=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-git78&layout=compact&theme=default)
- 
----
- 
 <p align="center"><i>Open to AI/ML Engineer, Generative AI Engineer, and AI Developer roles — let's build something.</i></p>
