@@ -6,8 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-pranshuharsana%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranshuharsana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Harsana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-harsana-946420311/)
-[![GitHub](https://img.shields.io/badge/GitHub-Priyanshu--git78-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu-git78)
-
 ---
 
 ## 🚀 About Me
