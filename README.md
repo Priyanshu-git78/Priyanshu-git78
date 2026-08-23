@@ -51,7 +51,7 @@ Built and deployed hybrid-retrieval RAG and workflow-automation systems across C
 ## 🎓 Education
 
 **MBA – Artificial Intelligence & Machine Learning**, DPU, Pune *(2024 – 2026)*
-**B.Sc. Mathematics & Computer Science**, University of Delhi *(2019 – 2022)*
+**Bachelor's in Mathematics & Computer Science**, University of Delhi *(2019 – 2022)*
 
 ---
 
